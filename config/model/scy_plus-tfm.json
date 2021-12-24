@@ -1,0 +1,10 @@
+{
+  "model_type": "TFM",
+  "num_layers": 12,
+  "hidden_dim": 786,
+  "num_heads": 6,
+  "feedforward_dim": 3072,
+  "pos_encode": true,
+  "max_len": 1024,
+  "dropout": 0.1
+}
